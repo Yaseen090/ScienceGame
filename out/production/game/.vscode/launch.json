@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameMenuUI",
+            "request": "launch",
+            "mainClass": "GameMenuUI",
+            "projectName": "game_77172e8f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "tryrun"
+        }
+    ]
+}

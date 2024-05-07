@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sowpods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sowpods.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

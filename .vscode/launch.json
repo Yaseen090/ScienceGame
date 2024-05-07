@@ -1,0 +1,43 @@
+{
+    "java.project.referencedLibraries": [
+        "javafx-sdk-22/lib"
+    ],
+
+   
+    "configurations": [
+ 
+        {
+            "type": "java",
+            "name": "ServerUI",
+            "request": "launch",
+            "mainClass": "UI.ServerUI",
+            "projectName": "updated_game_project_52c2c9c0",
+            "vmArgs": "--module-path javafx-sdk-22/lib/ --add-modules javafx.controls,javafx.fxml",
+            
+        },
+        {
+            "type": "java",
+            "name": "ClientUI",
+            "request": "launch",
+            "mainClass": "UI.ClientUI",
+            "projectName": "updated_game_project_52c2c9c0",
+            "vmArgs": "--module-path javafx-sdk-22/lib/ --add-modules javafx.controls,javafx.fxml",
+            
+        },
+        {
+            "type": "java",
+            "name": "GameMenuUI",
+            "request": "launch",
+            "mainClass": "GameMenuUI",
+            "projectName": "game_77172e8f",
+            "vmArgs": "--module-path javafx-sdk-22/lib/ --add-modules javafx.controls,javafx.fxml",
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "tryrun",
+            "vmArgs": "--module-path javafx-sdk-22/lib/ --add-modules javafx.controls,javafx.fxml",
+        }
+    ]
+}
